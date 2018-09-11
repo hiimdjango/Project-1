@@ -1,0 +1,9 @@
+body {
+    padding: 2px;
+    margin: 20px;
+    -webkit-columns: 300px 2;
+            columns: 300px 2;
+    color: #2f5572;
+ 
+}
+
